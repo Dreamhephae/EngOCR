@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EngOCR</string>
+    <string name="button_ok">OK</string>
+    <string name="button_select">select</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="string_textview" />
+</resources>
